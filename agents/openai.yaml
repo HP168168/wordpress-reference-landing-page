@@ -1,0 +1,4 @@
+interface:
+  display_name: "WordPress Reference Landing Page"
+  short_description: "Turn a reference design into a scoped WordPress landing page"
+  default_prompt: "Use $wordpress-reference-landing-page to recreate this reference image as a WordPress-ready landing page."
